@@ -12,5 +12,7 @@ Make sure you have the following Arduino libraries installed before trying to up
 
 ## Acknowledgments
 Based on TM1638plus_HELLOWORLD_TEST_Model1.ino example from TM1638plus library
+
 Author: Gavin Lyons.
+
 URL: https://github.com/gavinlyonsrepo/TM1638plus
