@@ -7,6 +7,9 @@ Make sure you have the following Arduino libraries installed before trying to up
 
   * TM1638plus library  [![arduino-library-badge](https://www.ardu-badge.com/badge/TM1638plus.svg?)](https://www.ardu-badge.com/TM1638plus)
 
+## Wiring diagram
+![](./WPM461_wiring_bb.png)
+
 ## Additional information
   For more information about the Whadda WPM461 chip key display module, check the manual available at [whadda.com](https://whadda.com)
 
