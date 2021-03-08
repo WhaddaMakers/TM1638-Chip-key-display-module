@@ -14,7 +14,7 @@
 
   This example shows how you can drive the LEDs and 7-segment displays of the display module in various ways.
 
-  Library dependancies:
+  Library dependencies:
     -TM1638plus library (Installation instructions: https://www.ardu-badge.com/TM1638plus/ide)
 
   For more information about the Whadda WPM461 chip key display module, check the manual available at https://whadda.com
