@@ -1,6 +1,6 @@
 # Whadda WPM461 chip key display module
 
-This example shows how you can drive the LEDs and 7-segment displays of the display module in various ways.
+This example shows how you can drive the LEDs and 7-segment displays of the display module in various ways with an Arduino® compatible board.
 
 ## Library dependencies
 Make sure you have the following Arduino libraries installed before trying to upload the example to your Arduino compatible board:
